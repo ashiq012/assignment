@@ -29,5 +29,5 @@ A simple and reusable data table component.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashiq012/assignment00.git
+   git clone https://github.com/ashiq012/assignment.git
    cd assignment00
